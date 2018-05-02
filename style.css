@@ -1,0 +1,10 @@
+/* Put your css in here */
+#map{
+	top: 50%;
+	width: 100%;
+	text-align: center;
+}
+#map-canvas {
+  height: 500px;
+  margin-top: 150px;
+}
